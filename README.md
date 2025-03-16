@@ -1,1 +1,2 @@
-# git-final-projecct
+This is my first Git merge test.
+
